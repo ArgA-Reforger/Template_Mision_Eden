@@ -1,0 +1,8 @@
+GameProject {
+ ID "TemplateEdenCore"
+ GUID "65BD1812542F436B"
+ TITLE "Template Eden - Core"
+ Dependencies {
+  "65A704E0944E5B5C" "58D0FB3206B6F859"
+ }
+}
